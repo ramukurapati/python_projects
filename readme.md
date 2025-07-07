@@ -83,8 +83,8 @@ Enter your expression: 1+2+3+4+5+6+7+8+9+10
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/bodmas-calculator.git
-   cd bodmas-calculator
+   [git clone https://github.com/ramukurapati/python_projects/edit/feature/scientific-calculator]
+   scientific_calculator.py
 ## 🧾 Safe Evaluation — Why No `eval()`?
 
 Python’s built-in `eval()` can be **extremely dangerous**, especially for beginners.
